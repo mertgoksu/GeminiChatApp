@@ -1,4 +1,4 @@
-package com.mertg.geminichatapp.model
+package com.mertg.geminichatapp.data
 
 import android.graphics.Bitmap
 

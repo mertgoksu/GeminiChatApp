@@ -2,9 +2,7 @@ package com.mertg.geminichatapp.data
 
 import android.graphics.Bitmap
 import com.google.ai.client.generativeai.GenerativeModel
-import com.google.ai.client.generativeai.type.ResponseStoppedException
 import com.google.ai.client.generativeai.type.content
-import com.mertg.geminichatapp.model.Chat
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 
