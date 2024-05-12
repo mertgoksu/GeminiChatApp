@@ -17,7 +17,7 @@ Gemini Chat App to chat with Gemini AI from Google, with Text and Images.
 
 ## Screenshots
 |   Light Theme   |    Dark Theme    |
-|----------|:-------------:|
+|----------|-------------|
 | <img width="322" alt="1" src="https://github.com/mertgoksu/GeminiChatApp/assets/119433132/9b8ddfe3-79f9-4c19-bc05-aa6e1922ca94"> | <img width="322" alt="1" src="https://github.com/mertgoksu/GeminiChatApp/assets/119433132/a0db6602-a803-4f04-b132-63b162d96f57"> |
 
 
